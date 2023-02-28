@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1677593519 source:c:\users\pierr\documents\codeblocks\csv_reader\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<cstring>
+	<stdlib.h>
+	<locale>
+	<codecvt>
+	<windows.h>
+
